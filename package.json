@@ -6,7 +6,7 @@
   "author": "Jay Fallon <jayfallon@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.0",
     "gulp-postcss": "^6.2.0",
     "postcss-at-else": "^2.0.1",
     "postcss-font-weights": "^3.0.1",
